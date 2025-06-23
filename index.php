@@ -101,6 +101,10 @@ if (file_exists('offers.txt')) {
     </style>
 </head>
 <body>
+    <!-- sinthiyatelecom domain link added -->
+    <div style="background:#fffbe6;padding:10px 0;text-align:center;font-weight:bold;font-size:1.2rem;">
+        <a href="http://sinthiyatelecom.tk" target="_blank" style="color:#0078d7;text-decoration:none;">sinthiyatelecom</a>
+    </div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
             <a class="navbar-brand rainbow-text" href="#">Sinthiya Telecom</a>
